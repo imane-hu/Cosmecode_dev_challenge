@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, world!
+=======
+Hello, world!
+>>>>>>> intern-task-4
