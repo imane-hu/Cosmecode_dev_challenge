@@ -1,0 +1,16 @@
+Hello Imane,
+Welcome to Cosmecode! We're excited to have you on board and look forward to seeing
+your potential.
+Before we start with the actual work, we have a small challenge for you. This will not only
+help you get comfortable with the kind of work we do but also allow us to understand your
+coding and version control skills.
+For this challenge, you are required to create a public repository on your GitHub profile. All
+the solutions for the tasks should be committed to this repository. We would like to see your
+understanding of Git, your commit messages, how you structure your work, and your coding
+style. Make sure to create appropriate branches for each task, commit often with clear,
+descriptive messages, and merge your changes back to the main branch when you're done
+with each task.
+Once done, please send us a link to your repo.
+You can use Python 3.7 or above to solve the exercises.
+For each Python exercise, you are expected to create a test.py file to prove that your code
+works.
